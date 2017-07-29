@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blueyellow_pycharm_app/.idea/blueyellow_pycharm_app.iml" filepath="$PROJECT_DIR$/../blueyellow_pycharm_app/.idea/blueyellow_pycharm_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyramid_python/.idea/pyramid_python.iml" filepath="$PROJECT_DIR$/../pyramid_python/.idea/pyramid_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spider.iml" filepath="$PROJECT_DIR$/.idea/spider.iml" />
+    </modules>
+  </component>
+</project>
